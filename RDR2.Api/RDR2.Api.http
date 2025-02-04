@@ -1,0 +1,6 @@
+@RDR2.Api_HostAddress = http://localhost:5132
+
+GET {{RDR2.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

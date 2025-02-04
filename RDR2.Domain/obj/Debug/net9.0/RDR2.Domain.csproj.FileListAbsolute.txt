@@ -1,0 +1,11 @@
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\bin\Debug\net9.0\RDR2.Domain.deps.json
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\bin\Debug\net9.0\RDR2.Domain.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\bin\Debug\net9.0\RDR2.Domain.pdb
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.AssemblyInfoInputs.cache
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.AssemblyInfo.cs
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\refint\RDR2.Domain.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\RDR2.Domain.pdb
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Domain\obj\Debug\net9.0\ref\RDR2.Domain.dll

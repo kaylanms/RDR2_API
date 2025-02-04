@@ -1,0 +1,15 @@
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\bin\Debug\net9.0\RDR2.Application.deps.json
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\bin\Debug\net9.0\RDR2.Application.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\bin\Debug\net9.0\RDR2.Application.pdb
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.AssemblyInfoInputs.cache
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.AssemblyInfo.cs
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.csproj.CoreCompileInputs.cache
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\refint\RDR2.Application.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.pdb
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\ref\RDR2.Application.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\bin\Debug\net9.0\RDR2.Domain.dll
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\bin\Debug\net9.0\RDR2.Domain.pdb
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.Application.csproj.AssemblyReference.cache
+C:\Users\kayla\dev\csharp\RDR2\RDR2.Application\obj\Debug\net9.0\RDR2.App.C84EDD59.Up2Date

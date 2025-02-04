@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Eg0rz9lCDt1EgIQ2vMr4FOeGsXBiinzAHQI5OILBXXI=",
+  "Source": "RDR2.Api",
+  "BasePath": "_content/RDR2.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
