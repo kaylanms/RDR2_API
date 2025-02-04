@@ -41,3 +41,10 @@ O projeto adota o padrão **CQRS**, separando comandos (**Commands**) de consult
 - **MediatR** - Implementação de CQRS
 - **Moq & xUnit** - Testes unitários e mocks
 - **SQL Server** - Banco de dados
+
+## 🧪 Testes
+O projeto inclui alguns testes unitários com **xUnit** e **Moq**:
+Os testes cobrem:
+- Handlers de Comandos (`AddCharacterToGangCommandHandlerTests`)
+- Validação de Comandos (`AddCharacterToGangCommandValidatorTests`)
+- Repositórios (`CharacterRepositoryTests`)
