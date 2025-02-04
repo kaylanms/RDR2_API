@@ -28,7 +28,6 @@ O projeto adota o padrão **CQRS**, separando comandos (**Commands**) de consult
 
 - **Mediator Pattern**: Implementado via **MediatR** para coordenar a comunicação entre handlers e comandos.
 - **Repository Pattern**: Abstrai a persistência dos dados, promovendo desacoplamento.
-- **Factory Pattern**: Utilizado na criação de instâncias de entidades e objetos complexos.
 - **Validation Pattern**: Utilizado com **FluentValidation** para validar os comandos e consultas.
 
 ---
